@@ -1,0 +1,25 @@
+/*
+ Theme Name:     Pixel Chimps theme
+ Theme URI:      https://pixelchimps.co.uk/divichildtheme
+ Description:    Divi Child Theme
+ Template:       Divi
+ Version:        3.0.0
+*/
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+body.login div#login h1 a {
+	background-image: url("/wp-content/themes/pixelchimps/monkey-icon-black.png");
+}
+
+body.login {
+	background-image: url("/wp-content/themes/pixelchimps/login-background.png");
+	background-size: cover;
+}
+
+.login h1 a {
+	background-size: contain;
+	height: 5rem;
+	width: unset;
+}
