@@ -10,11 +10,11 @@
 ------------------------------------------------------- */
 
 body.login div#login h1 a {
-	background-image: url("/wp-content/themes/pixelchimps/monkey-icon-black.png");
+	background-image: url("/wp-content/themes/pixelchimpstheme/monkey-icon-black.png");
 }
 
 body.login {
-	background-image: url("/wp-content/themes/pixelchimps/login-background.jpg");
+	background-image: url("/wp-content/themes/pixelchimpstheme/login-background.jpg");
 	background-size: cover;
 }
 
