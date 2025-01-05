@@ -11,7 +11,7 @@ function custom_login_stylesheet() {
 add_action( 'login_enqueue_scripts', 'custom_login_stylesheet' );
 
 function my_login_logo_url() {
-    return 'https://pixelchimps.co.uk';
+    return 'https://pixelchamps.co.uk';
 }
 add_filter('login_headerurl', 'my_login_logo_url');
 
